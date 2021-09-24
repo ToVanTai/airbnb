@@ -1,25 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import {Component} from 'react';
+import './style/style.css';
+import SelectLanguageMoney from './components/selectLanguage';
+import Header from './components/header';
+import BodyContent from './components/bodyContent';
+import BodyFooter from './components/bodyFooter';
+class App extends Component{
+    constructor(props){
+        super(props);
+        this.state={
+            isOpenLanguageMoney:false
+        }
+    }
+    closeSelectLanguageMoney = (data)=>{
+        this.setState({
+            isOpenLanguageMoney:data
+        })
+    }
+    closeSelectLanguageMoney = (data)=>{
+        this.setState({
+            isOpenLanguageMoney:data
+        })
+    }
+    render(){
+        return(
+            <div style={{height:'100%'}}>
+                <Header openSelectLanguageMoney={this.closeSelectLanguageMoney}></Header>
+                <SelectLanguageMoney onClose={this.closeSelectLanguageMoney} isOpenLanguageMoney={this.state.isOpenLanguageMoney}></SelectLanguageMoney>
+                <BodyContent></BodyContent>
+                <BodyFooter></BodyFooter>
+            </div>
+        )
+    }
 }
-
 export default App;

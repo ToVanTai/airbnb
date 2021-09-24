@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body, html, #root {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 1.3;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  display: block;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.container {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.color-white {
+  color: white;
+}
+
+.font-14 {
+  font-size: 1.4rem;
+}
+
+.font-15 {
+  font-size: 1.5rem;
+}
+
+.font-16 {
+  font-size: 1.6rem;
+}
+
+.font-w-bold {
+  font-weight: bold;
+}
+
+.color-a3a3a3 {
+  color: #a3a3a3;
+}
+
+.p-20-0 {
+  padding: 20px 0px;
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+.p-12-12 {
+  padding: 12px;
+}
+
+.top {
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.pull-right {
+  float: right;
+}
+
+.pull-left {
+  float: left;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.hover-o-8:hover {
+  opacity: 0.8;
+}
+
+.container {
+  height: 100%;
+}
+/*# sourceMappingURL=base.css.map */
