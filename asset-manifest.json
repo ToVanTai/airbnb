@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/airbnb/static/css/main.e085cadd.chunk.css",
+    "main.js": "/airbnb/static/js/main.122f5887.chunk.js",
+    "main.js.map": "/airbnb/static/js/main.122f5887.chunk.js.map",
+    "runtime-main.js": "/airbnb/static/js/runtime-main.86390ce0.js",
+    "runtime-main.js.map": "/airbnb/static/js/runtime-main.86390ce0.js.map",
+    "static/js/2.a91201e8.chunk.js": "/airbnb/static/js/2.a91201e8.chunk.js",
+    "static/js/2.a91201e8.chunk.js.map": "/airbnb/static/js/2.a91201e8.chunk.js.map",
+    "index.html": "/airbnb/index.html",
+    "static/css/main.e085cadd.chunk.css.map": "/airbnb/static/css/main.e085cadd.chunk.css.map",
+    "static/js/2.a91201e8.chunk.js.LICENSE.txt": "/airbnb/static/js/2.a91201e8.chunk.js.LICENSE.txt",
+    "static/media/amarillo.png": "/airbnb/static/media/amarillo.c98dc812.png",
+    "static/media/style.css": "/airbnb/static/media/background.30e024cb.jpg",
+    "static/media/branson.jpg": "/airbnb/static/media/branson.3bc341d6.jpg",
+    "static/media/challenges.jpg": "/airbnb/static/media/challenges.a67a62ba.jpg",
+    "static/media/choODocDao.jpg": "/airbnb/static/media/choODocDao.a435de4d.jpg",
+    "static/media/choPhepMangTheoThuCung.jpg": "/airbnb/static/media/choPhepMangTheoThuCung.3367843a.jpg",
+    "static/media/collectionjpg.jpg": "/airbnb/static/media/collectionjpg.6b48d71c.jpg",
+    "static/media/experience.jpg": "/airbnb/static/media/experience.828d743e.jpg",
+    "static/media/experienceOnline.jpg": "/airbnb/static/media/experienceOnline.6bc642ec.jpg",
+    "static/media/fayetteville.png": "/airbnb/static/media/fayetteville.e3ef738b.png",
+    "static/media/kansas.jpg": "/airbnb/static/media/kansas.65faebf7.jpg",
+    "static/media/kansas2.jpg": "/airbnb/static/media/kansas2.957ed41f.jpg",
+    "static/media/noiNghiDuongNgoaiTroi.jpg": "/airbnb/static/media/noiNghiDuongNgoaiTroi.52e82bcc.jpg",
+    "static/media/oklahoma.jpg": "/airbnb/static/media/oklahoma.06e53803.jpg",
+    "static/media/omaha.jpg": "/airbnb/static/media/omaha.3bc341d6.jpg",
+    "static/media/toanBoNha.jpg": "/airbnb/static/media/toanBoNha.ffefbac4.jpg",
+    "static/media/tulsa.jpg": "/airbnb/static/media/tulsa.6cd67ca9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86390ce0.js",
+    "static/js/2.a91201e8.chunk.js",
+    "static/css/main.e085cadd.chunk.css",
+    "static/js/main.122f5887.chunk.js"
+  ]
+}
